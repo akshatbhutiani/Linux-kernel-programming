@@ -1,2 +1,5 @@
 # Linux-kernel-programming
-This repository contains materials needed to learn programming the Linux Kernel and develop Linux Kernel Device Drivers.
+I assume that the person who will pursue this course is comfortable programming in C/C++. Embedded Systems / Firmware programming experience is preferred by not required.
+
+This course draws heavily from the following sources:
+
